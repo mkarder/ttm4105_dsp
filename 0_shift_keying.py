@@ -1,3 +1,15 @@
+"""
+Input: consider put a task:
+ analog signal
+ sampling
+ quantization (?)
+ Translate a sound to voltages
+
+ Frequency of (audio) sampling: Nyquist sampling
+ - Supply a FFT-functionality to  
+ - Think of a 
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 

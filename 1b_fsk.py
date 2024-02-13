@@ -1,3 +1,5 @@
+# Source: https://www.rfwireless-world.com/source-code/Python/FSK-modulation-python-code.html
+
 import matplotlib.pyplot as plt
 import numpy as np
 from binarygen import binary
